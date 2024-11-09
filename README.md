@@ -1,6 +1,6 @@
 # Frederico Rosa
 
-Administrador de Empresas, empresario,  buscando conhecimento na area de tecnologia!
+Administrador de Empresas | Empreendedor | Estudante de Ciências de Dados
 
 ### Me encontre
 
