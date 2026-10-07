@@ -1,6 +1,6 @@
 # Frederico Rosa
 
-Administrador de Empresas | Empreendedor | Estudante de Ciências de Dados
+Administrador | Bacharel em Ciências Contábeis | Tecnólogo em Ciência de Dados
 
 ### Me encontre
 
