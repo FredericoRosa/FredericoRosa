@@ -4,7 +4,7 @@ Administrador | Bacharel em Ciências Contábeis | Tecnólogo em Ciência de Dad
 
 ### Me encontre
 
-[![linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=social&logo=linkedin&logoColor)](https://www.linkedin.com/in/frederico-borges-do-couto-rosa-82975790//)
+[![linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=social&logo=linkedin&logoColor)](https://www.linkedin.com/in/fredericocoutorosa/)
 [![gmail](https://img.shields.io/badge/Gmail-ea4335?style=social&logo=gmail&logoColor)]()
 
 ### Habilidades
